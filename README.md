@@ -1,7 +1,7 @@
 ## Tech Radar
 
 - Backend: **_Coming Soon_**
-- Frontend: [Link Here](https://radar.thoughtworks.com/?sheetId=https://docs.google.com/spreadsheets/d/1gXgm2ukRY96W5SIb6zOQ7WLR-3E6I4xQS_VEHQr_how/edit?usp=sharing&sheetName=Frontend%20Radar)
+- Frontend: [Link Here](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Frifandani%2Ftech-radar%2Fmain%2FMy%2520Company%2520-%2520Frontend%2520Radar.csv)
 
 ## What is the Tech Radar?
 
