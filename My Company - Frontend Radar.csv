@@ -1,0 +1,50 @@
+name,quadrant,ring,isNew,description
+HTML 5,languages-and-frameworks,Adopt,FALSE,"Defacto web standard markup language <br> <br> We at My Company, always strife to follow the web standards and semantic"
+CSS 3,languages-and-frameworks,Adopt,FALSE,"Defacto web standard for styling <br> <br> We at My Company, always try to follow the semantic CSS guideline"
+Javascript,languages-and-frameworks,Adopt,FALSE,"The mother language of the web <br> <br> We at My Company, always using the most natural and generic language of the web, which is Javascript"
+Typescript,languages-and-frameworks,Adopt,FALSE,"<a href=""https://www.typescriptlang.org"">TypeScript</a> is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale <br> <br> We at My Company, are typescript wizards. We believe safety comes first"
+React,languages-and-frameworks,Adopt,FALSE,"<a href=""https://beta.reactjs.org"">React</a> is a JavaScript library for building user interfaces <br> <br> We at My Company, are the experts at react. We believe react is the future"
+React Native,languages-and-frameworks,Adopt,FALSE,"<a href=""https://reactnative.dev"">React Native</a> combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces <br> <br> We at My Company, are the experts at react. We believe react is the future"
+Qwik,languages-and-frameworks,Trial,TRUE,"<a href=""https://qwik.builder.io/"">Qwik</a> is a resumable framework <br> <br> We at My Company, really excited for this revolutionary resumable framework that provide us a auto performance boosts. We loves what their saying, ""Don't blame the developers for the poor performance, blame the framework"" <br> <br> Wednesday 08/02/2023, we decided to move this from ""Access"" to ""Trial"", because we believe Qwik is pretty mature and ready for production"
+Remix,languages-and-frameworks,Trial,TRUE,"<a href=""https://remix.run/"">Remix</a> is a full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience. <br> <br> We at My Company, really loves the work of Remix and react router guys that wanted to just implement the web standards instead of frameworks that do much ""magic"" in their compiler (yes we're talking about you Svelte & Vue) <br> <br> Wednesday 08/02/2023, we decided to move this from ""Access"" to ""Trial"", because we believe Remix is pretty mature and ready for production"
+Next.js,languages-and-frameworks,Assess,TRUE,"<a href=""https://nextjs.org/"">Next.js</a> enables you to create full-stack web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds <br> <br> We at My Company, still experimenting with Next.js 13 app directory features and considering how we can make the app deployable and cacheable at AWS S3"
+Xamarin,languages-and-frameworks,Hold,FALSE,"<a href=""https://dotnet.microsoft.com/en-us/apps/xamarin"">Xamarin</a> is an open-source platform for building modern and performant applications for iOS, Android, and Windows with .NET <br> <br> We at My Company, hate C#. React FTW!"
+Flutter,languages-and-frameworks,Hold,FALSE,"<a href=""https://flutter.dev/"">Flutter</a> is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase <br> <br> We at My Company, hate Dart. React FTW!"
+SCSS,tools-and-libraries,Adopt,FALSE,"CSS preprocessor. <a href=""https://sass-lang.com/"">Sass</a> is the most mature, stable, and powerful professional grade CSS extension language in the world.<br> <br> We at My Company, feel really helped by using a CSS Preprocessor"
+TailwindCSS,tools-and-libraries,Adopt,FALSE,"<a href=""https://tailwindcss.com/"">TailwindCSS</a> A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.<br> <br> We at My Company, are very delighted when using TailwindCSS. We can't style without it"
+Emotion / Twin Macro,tools-and-libraries,Adopt,FALSE,
+Redux / RTK,tools-and-libraries,Adopt,FALSE,
+React Router,tools-and-libraries,Adopt,FALSE,
+Formik,tools-and-libraries,Adopt,FALSE,
+HeadlessUI,tools-and-libraries,Adopt,FALSE,
+Yup,tools-and-libraries,Adopt,FALSE,
+Eslint,tools-and-libraries,Adopt,FALSE,
+React Testing Library (RTL),tools-and-libraries,Adopt,FALSE,
+Jest,tools-and-libraries,Adopt,FALSE,
+Create React App (CRA),tools-and-libraries,Adopt,FALSE,
+Mock Service Worker (MSW),tools-and-libraries,Adopt,FALSE,
+Prettier,tools-and-libraries,Adopt,FALSE,
+Storybook,tools-and-libraries,Trial,TRUE,
+Vite,tools-and-libraries,Assess,TRUE,
+Vitest,tools-and-libraries,Assess,TRUE,
+Zod,tools-and-libraries,Assess,TRUE,
+React Hook Form (RHF),tools-and-libraries,Assess,TRUE,
+Redux Saga,tools-and-libraries,Hold,FALSE,
+JSON,methods-and-patterns,Adopt,FALSE,JSON is an open standard file format and data interchange format
+REST API,methods-and-patterns,Adopt,FALSE,
+Singleton Pattern,methods-and-patterns,Adopt,FALSE,
+MVVM Pattern,methods-and-patterns,Trial,TRUE,
+Feature Toggle,methods-and-patterns,Trial,TRUE,
+Trunk-based Development,methods-and-patterns,Assess,TRUE,
+Test Driven Development (TDD),methods-and-patterns,Assess,TRUE,
+GraphQL,methods-and-patterns,Hold,FALSE,
+Protobuf,methods-and-patterns,Hold,FALSE,
+XML,methods-and-patterns,Hold,FALSE,
+Sentry,platforms-and-services,Adopt,FALSE,
+AWS S3,platforms-and-services,Adopt,FALSE,
+Google Maps API,platforms-and-services,Adopt,FALSE,
+Firebase Authentication,platforms-and-services,Adopt,FALSE,
+Firebase Messaging,platforms-and-services,Adopt,FALSE,
+Firebase Remote Config,platforms-and-services,Adopt,FALSE,
+Figma,platforms-and-services,Adopt,FALSE,
+Gitlab,platforms-and-services,Adopt,FALSE,
